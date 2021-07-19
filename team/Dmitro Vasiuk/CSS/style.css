@@ -1,0 +1,21 @@
+.BG{
+    background-color: darkgreen;
+}
+.Text{
+    color:white;
+    margin-left: 500px;
+    margin-top:-650px;
+    font-size: x-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.image{
+    width: 500px !important;
+    height: 650px !important;
+
+}
+.card{
+    width: 700px;
+}
+.sus{
+    margin-left: 500px;
+}
